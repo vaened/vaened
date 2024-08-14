@@ -1,8 +1,6 @@
 👋 Hello, I’m Enea Dhack
 
-About Me
-
-I’m a software developer who values clean code and creative problem-solving. Over the years, I’ve honed my ability to tackle complex challenges with thoughtful, efficient solutions. My work is driven by a passion for building systems that are not only functional but also maintainable and scalable. I take pride in writing open-source libraries that reflect these principles.
+As a software developer, I place a high value on clean code and creative problem-solving. Through years of experience, I’ve developed a strong ability to address complex challenges with thoughtful and efficient solutions. My work is fueled by a passion for building systems that are not only functional but also maintainable and scalable. I take pride in writing open-source libraries that reflect these principles.
 
 💼 Open Source Contributions
 
