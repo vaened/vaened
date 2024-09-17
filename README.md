@@ -37,6 +37,8 @@ This dedication to clean code extends to my open-source work, where I build libr
 
 - 🗣️ Open to: Networking and collaborating on exciting tech projects
 
+- 🎯 Goal: Continuously improving and delivering impactful software solutions
+
 
 <hr style="height: 0.05rem; clear: both;"/>  
 <p align="center">
