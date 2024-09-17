@@ -33,8 +33,10 @@ This dedication to clean code extends to my open-source work, where I build libr
 
 - 🌟 Enthusiastic about: Continuous learning and innovation in software development
 
+- 🗣️ Open to: Networking and collaborating on exciting tech projects
 
-<hr style="height: 0.05rem"/>  
+
+<hr style="height: 0.05rem; clear: both;"/>  
 <p align="center">
   <strong>My GitHub Stats</strong>
 </p>
