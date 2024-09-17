@@ -1,12 +1,11 @@
 
 <p align="center">
-
-<img src="https://github.com/user-attachments/assets/b736b9ac-9a5f-40ce-ab62-477f0235b20e" />
+  <img src="https://github.com/user-attachments/assets/b736b9ac-9a5f-40ce-ab62-477f0235b20e" />
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=5C47F7&center=true&vCenter=true&width=435&height=25&lines=Full-Stack+Developer;Software+Architect;Open+Source+Contributor;Code+Quality+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=5C47F7&center=true&vCenter=true&width=435&height=35&lines=Full-Stack+Developer;Software+Architect;Open+Source+Contributor;Code+Quality+Specialist" alt="Typing SVG" />
 </p>
 
 
