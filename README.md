@@ -5,7 +5,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=5C47F7&center=true&vCenter=true&width=435&height=35&lines=Full-Stack+Developer;Software+Architect;Open+Source+Contributor;Code+Quality+Specialist" alt="Typing SVG" />
@@ -21,7 +20,7 @@ This dedication to clean code extends to my open-source work, where I build libr
 
 <hr style="height: 0.05rem"/>  
 
-<img  width="320px" align="right" alt="Github"  src="https://github.com/user-attachments/assets/b52a1bfa-15cf-4119-be0b-23d8c36887e9"/>
+<img  width="320px" align="right" alt="Github"  src="https://github.com/user-attachments/assets/320f7740-33c0-42bd-84e0-0878cd4961e3"/>
 
 
 - 💬 Focused on: Software Architecture and Scalable Solutions
