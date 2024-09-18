@@ -1,4 +1,6 @@
 
+
+
 <p align="center">
   <a href="">
     <img src="https://github.com/user-attachments/assets/b736b9ac-9a5f-40ce-ab62-477f0235b20e" />
@@ -94,4 +96,8 @@ This dedication to clean code extends to my open-source work, where I build libr
   [![Vuex](https://img.shields.io/badge/Vuex-Back?style=for-the-badge&color=405061)](https://vuex.vuejs.org/)
   [![Zustand](https://img.shields.io/badge/Zustand-Back?style=for-the-badge&color=2259CB)](https://zustand.surge.sh/)
 	</div>
+ <div align="right">
+
+[![](https://komarev.com/ghpvc/?username=vaened&color=blueviolet&style=for-the-badge)](https://github.com/vaened)
+</div>
 </details>
