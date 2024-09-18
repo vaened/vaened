@@ -85,6 +85,7 @@ This dedication to clean code extends to my open-source work, where I build libr
   [![React](https://img.shields.io/badge/React-Black?style=for-the-badge&color=61DAFB)](https://reactjs.org/)
   [![Redis](https://img.shields.io/badge/Redis-Black?style=for-the-badge&color=FF4438)](https://redis.io/)
   [![Redux](https://img.shields.io/badge/Redux-Back?style=for-the-badge&color=764ABC)](https://redux.js.org/)
+  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Black?style=for-the-badge&color=FF6600)](https://www.rabbitmq.com/)
   [![SQLServer](https://img.shields.io/badge/SQLServer-Black?style=for-the-badge&color=C52F30)](https://www.microsoft.com/en-us/sql-server)
   [![Synfony](https://img.shields.io/badge/symfony-Back?style=for-the-badge&color=000000)](https://symfony.com/)
   [![Tailwind](https://img.shields.io/badge/Tailwind-Black?style=for-the-badge&color=06B6D4)](https://tailwindcss.com/)
