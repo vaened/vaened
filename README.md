@@ -41,7 +41,7 @@ This dedication to clean code extends to my open-source work, where I build libr
 <hr style="height: 0.05rem; clear: both;"/>  
 
 <p align="center">
-  <strong>Favorite Tech Stack</strong>
+  <strong>Most Used Technologies</strong>
 </p>
 
 <p align="center">
