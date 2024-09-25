@@ -55,7 +55,7 @@ This dedication to clean code extends to my open-source work, where I build libr
 [![Doctrine](https://img.shields.io/badge/Doctrine-Black?style=for-the-badge&color=FC6A31)](#)
 [![Docker](https://img.shields.io/badge/Docker-Black?style=for-the-badge&color=2496ED)](#)
 [![Github](https://img.shields.io/badge/Github-Black?style=for-the-badge&color=181717)](#)
-</p>
+</div>
 
 
 <p align="center">
