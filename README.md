@@ -45,9 +45,16 @@ This dedication to clean code extends to my open-source work, where I build libr
 <p align="center">
   <strong>Most Used Technologies</strong>
 </p>
-
-<p align="center">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-Black?style=for-the-badge&logo=php&logoColor=white&color=777BB4"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript-Black?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-Black?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20"> <img alt="Next" src="https://img.shields.io/badge/Next-Black?style=for-the-badge&logo=next.js&color=black"> <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/PostgreSQL-Black?style=for-the-badge&logo=postgresql&&logoColor=white&color=4169E1"> <img alt="Doctrine" src="https://img.shields.io/badge/Doctrine-Black?style=for-the-badge&logo=doctrine&logoColor=white&color=FC6A31"> <img alt="Docker" src="https://img.shields.io/badge/Docker -Black?style=for-the-badge&logo=docker&logoColor=white&color=2496ED">  <img alt="Github Badge" src="https://img.shields.io/badge/Github-Black?style=for-the-badge&logo=github&logoColor=white&color=181717">
+<div align="center">
+	
+[![PHP](https://img.shields.io/badge/PHP-Black?style=for-the-badge&color=777BB4)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-Black?style=for-the-badge&color=FF2D20)](#)
+[![Typescript](https://img.shields.io/badge/Typescript-Black?style=for-the-badge&color=3178C6)](#)
+[![Next](https://img.shields.io/badge/Next-Black?style=for-the-badge&color=black)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Black?style=for-the-badge&color=4169E1)](#)
+[![Doctrine](https://img.shields.io/badge/Doctrine-Black?style=for-the-badge&color=FC6A31)](#)
+[![Docker](https://img.shields.io/badge/Docker-Black?style=for-the-badge&color=2496ED)](#)
+[![Github](https://img.shields.io/badge/Github-Black?style=for-the-badge&color=181717)](#)
 </p>
 
 
