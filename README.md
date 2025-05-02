@@ -14,7 +14,7 @@
 </p>
 
 
-I'm a software developer passionate about clean code and solving complex challenges with efficient, scalable solutions. My 8 years of experience at a leading neurology institute in Peru have honed my skills in developing functional and maintainable systems.
+I'm a software developer passionate about clean code and solving complex challenges with efficient, scalable solutions. My 9 years of experience at a leading neurology institute in Peru have honed my skills in developing functional and maintainable systems.
 
 This dedication to clean code extends to my open-source work, where I build libraries that showcase these principles. This approach helps me tackle complex problems with innovative solutions. Feel free to explore my repositories to see how these values come to life! 🚀
 
