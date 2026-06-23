@@ -9,35 +9,33 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=5C47F7&center=true&vCenter=true&width=435&height=35&lines=Full-Stack+Developer;Software+Architect;Open+Source+Contributor;Code+Quality+Specialist" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=5C47F7&center=true&vCenter=true&width=435&height=35&lines=Domain+Architecture;Maintainable+Codebases;Open+Source+Experiments;Beyond+Simple+CRUD" alt="Typing SVG" />
+ </a>
 </p>
 
 
-I'm a software developer passionate about clean code and solving complex challenges with efficient, scalable solutions. My 9 years of experience at a leading neurology institute in Peru have honed my skills in developing functional and maintainable systems.
+I’m a software developer with more than 9 years of experience building systems with PHP and JavaScript. My work has mainly focused on hospital systems and academic platforms, where maintainability, domain boundaries and long-term code organization matter.
 
-This dedication to clean code extends to my open-source work, where I build libraries that showcase these principles. This approach helps me tackle complex problems with innovative solutions. Feel free to explore my repositories to see how these values come to life! 🚀
-
+I publish open-source libraries when I find recurring problems that deserve clearer or more practical solutions. Feel free to explore my repositories if you want to see how I approach software design, architecture and problem solving. 🚀
 
 <hr style="height: 0.05rem"/>  
 
-<img  width="320px" align="right" alt="Github"  src="https://github.com/user-attachments/assets/320f7740-33c0-42bd-84e0-0878cd4961e3"/>
+<img  width="240px" align="right" alt="Github"  src="https://github.com/user-attachments/assets/320f7740-33c0-42bd-84e0-0878cd4961e3"/>
 
-- 💬 Focused on: Software Architecture and Scalable Solutions
+- 🧱 **Focused on**: Domain architecture and maintainability
 
-- 📫 Find my work: [GitHub](https://github.com/vaened?tab=repositories)
+- 💻 **Main stack**: PHP, TypeScript and JavaScript
 
-- 🌱 Currently exploring: New technologies and tools
+- 🔍 **Exploring**: Better ways to structure growing systems
 
-- 🔧 Currently working on: A personal project alongside my regular work
+- 📦 **Open source**: Libraries born from practical problems
 
-- 🚀 Excited about: Building efficient systems and solving challenging problems
+- 🛠️ **Approach**: Simple decisions, explicit trade-offs
 
-- 🌟 Enthusiastic about: Continuous learning and innovation in software development
+- 🧩 **Interested in**: Problems that need more than CRUD
 
-- 🗣️ Open to: Networking and collaborating on exciting tech projects
+- 🔗 **Find my work**: [GitHub](https://github.com/vaened?tab=repositories)
 
-- 🎯 Goal: Continuously improving and delivering impactful software solutions
 
 
 <hr style="height: 0.05rem; clear: both;"/>  
