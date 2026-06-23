@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <a href="">
     <img src="https://github.com/user-attachments/assets/b736b9ac-9a5f-40ce-ab62-477f0235b20e" />
@@ -20,7 +17,7 @@ I publish open-source libraries when I find recurring problems that deserve clea
 
 <hr style="height: 0.05rem"/>  
 
-<img  width="240px" align="right" alt="Github"  src="https://github.com/user-attachments/assets/320f7740-33c0-42bd-84e0-0878cd4961e3"/>
+<img width="280px" align="right" alt="developer" src="https://github.com/user-attachments/assets/6801f0bb-7149-425b-a688-3ef6644b66be" />
 
 - 🧱 **Focused on**: Domain architecture and maintainability
 
