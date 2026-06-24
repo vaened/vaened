@@ -11,7 +11,7 @@
 </p>
 
 
-I’m a software developer with more than 9 years of experience building systems with PHP and JavaScript. My work has mainly focused on hospital systems and academic platforms, where maintainability, domain boundaries and long-term code organization matter.
+I’m a software developer with more than 10 years of experience building systems with PHP and JavaScript. My work has mainly focused on hospital systems and academic platforms, where maintainability, domain boundaries and long-term code organization matter.
 
 I publish open-source libraries when I find recurring problems that deserve clearer or more practical solutions. Feel free to explore my repositories if you want to see how I approach software design, architecture and problem solving. 🚀
 
