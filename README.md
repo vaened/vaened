@@ -27,7 +27,7 @@ I publish open-source libraries when I find recurring problems that deserve clea
 
 - 📦 **Open source**: Libraries born from practical problems
 
-- 🛠️ **Approach**: Simple decisions, explicit trade-offs
+- 🛠️ **Approach**: Elegant solutions over comfortable compromises
 
 - 🧩 **Interested in**: Problems that need more than CRUD
 
